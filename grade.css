@@ -1,0 +1,163 @@
+body {
+    background:url(bg3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+#result{
+    color: Black;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.container {
+    text-align: center;
+}
+
+.g1{
+    font-size: 20px;
+    padding: 20px;
+    margin: 10px;
+    width: 30%;
+    border: solid 2px purple;
+    border-radius: 8px;
+    background: linear-gradient(pink, white,pink);
+}
+
+#btn {
+    cursor: pointer;
+    font-size: 18px;
+    padding: 15px;
+    margin: 10px;
+    width: 15%;
+    border: solid 2px #114883;
+    border-radius: 5px;
+    background: #1a5493;
+    color: white;
+
+}
+#btn:hover{
+    background: #114883;
+}
+.h1{
+    color: purple;
+    font-size: 50px;
+}
+#b1{
+    transition: 0.4s;
+}
+#b1:hover {
+    transform: translateY(-5px);
+}
+#b2{
+    transition: 0.4s;
+}
+#b2:hover {
+    transform: translateY(-5px);
+}
+#b3{
+    transition: 0.4s;
+}
+#b3:hover {
+    transform: translateY(-5px);
+}
+#b4{
+    transition: 0.4s;
+}
+#b4:hover {
+    transform: translateY(-5px);
+}
+#b5{
+    transition: 0.4s;
+}
+#b5:hover {
+    transform: translateY(-5px);
+}
+#b6{
+    transition: 0.4s;
+}
+#b6:hover {
+    transform: translateY(-5px);
+}
+#b7{
+    transition: 0.4s;
+}
+#b7:hover {
+    transform: translateY(-5px);
+}
+#b8{
+    transition: 0.4s;
+}
+#b8:hover {
+    transform: translateY(-5px);
+}
+#b9{
+    transition: 0.4s;
+}
+#b9:hover {
+    transform: translateY(-5px);
+}
+#b10{
+    transition: 0.4s;
+}
+#b10:hover {
+    transform: translateY(-5px);
+}
+#b11{
+    transition: 0.4s;
+}
+#b11:hover {
+    transform: translateY(-5px);
+}
+#b12{
+    transition: 0.4s;
+}
+#b12:hover {
+    transform: translateY(-5px);
+}
+#b13{
+    transition: 0.4s;
+}
+#b13:hover {
+    transform: translateY(-5px);
+}
+#b14{
+    transition: 0.4s;
+}
+#b14:hover {
+    transform: translateY(-5px);
+}
+#b15{
+    transition: 0.4s;
+}
+#b15:hover {
+    transform: translateY(-5px);
+}
+#b16{
+    transition: 0.4s;
+}
+#b16:hover {
+    transform: translateY(-5px);
+}
+#b17{
+    transition: 0.4s;
+}
+#b17:hover {
+    transform: translateY(-5px);
+}
+#b18{
+    transition: 0.4s;
+}
+#b18:hover {
+    transform: translateY(-5px);
+}
+#b19{
+    transition: 0.4s;
+}
+#b19:hover {
+    transform: translateY(-5px);
+}

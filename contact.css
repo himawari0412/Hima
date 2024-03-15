@@ -1,0 +1,190 @@
+body{
+	  background: linear-gradient(pink, white, pink);
+}
+#Boruto{
+	background: #1a5493;
+	color: white;
+	padding: 10px;
+	margin-left: 340px;
+	border: none;
+	border-radius: 5px;
+	font-size: 20px;
+}
+#Boruto:hover{
+	background: #114883;
+}
+.gojo{
+	font-size: 18px;
+}
+#f1{
+	padding: 8px;
+	border: solid 1px purple;
+	border-radius: 10px;
+	font-size: 17px;
+}
+#f2{
+	padding: 8px;
+	border: solid 1px purple;
+	border-radius: 10px;
+	font-size: 17px;
+}
+#f3{
+	padding: 8px;
+	border: solid 1px purple;
+	border-radius: 10px;
+	font-size: 17px;
+}
+#f4{
+	padding: 8px;
+	border: solid 1px purple;
+	border-radius: 10px;
+	font-size: 17px;
+}
+#f5{
+	padding: 22px;
+	border: solid 1px purple;
+	border-radius: 10px;
+	font-size: 17px;
+}
+.cc{
+	color: pink;
+}
+.cc:hover{
+	color: green;
+	font-size: 17px;
+}
+#c1{
+	transition: 0.2s;
+}
+#c1:hover {
+	transform: translateY(-7px);
+	width: 55%;
+}
+#c2{
+	transition: 0.2s;
+}
+#c2:hover {
+	transform: translateY(-7px);
+	width: 55%;
+}
+#c3{
+	transition: 0.2s;
+}
+#c3:hover {
+	transform: translateY(-7px);
+	width: 55%;
+}
+#b1{
+	transition: 0.4s;
+}
+#b1:hover {
+	transform: translateY(-5px);
+}
+#b2{
+	transition: 0.4s;
+}
+#b2:hover {
+	transform: translateY(-5px);
+}
+#b3{
+	transition: 0.4s;
+}
+#b3:hover {
+	transform: translateY(-5px);
+}
+#b4{
+	transition: 0.4s;
+}
+#b4:hover {
+	transform: translateY(-5px);
+}
+#b5{
+	transition: 0.4s;
+}
+#b5:hover {
+	transform: translateY(-5px);
+}
+#b6{
+	transition: 0.4s;
+}
+#b6:hover {
+	transform: translateY(-5px);
+}
+#b7{
+	transition: 0.4s;
+}
+#b7:hover {
+	transform: translateY(-5px);
+}
+#b8{
+	transition: 0.4s;
+}
+#b8:hover {
+	transform: translateY(-5px);
+}
+#b9{
+	transition: 0.4s;
+}
+#b9:hover {
+	transform: translateY(-5px);
+}
+#b10{
+	transition: 0.4s;
+}
+#b10:hover {
+	transform: translateY(-5px);
+}
+#b11{
+	transition: 0.4s;
+}
+#b11:hover {
+	transform: translateY(-5px);
+}
+#b12{
+	transition: 0.4s;
+}
+#b12:hover {
+	transform: translateY(-5px);
+}
+#b13{
+	transition: 0.4s;
+}
+#b13:hover {
+	transform: translateY(-5px);
+}
+#b14{
+	transition: 0.4s;
+}
+#b14:hover {
+	transform: translateY(-5px);
+}
+#b15{
+	transition: 0.4s;
+}
+#b15:hover {
+	transform: translateY(-5px);
+}
+#b16{
+	transition: 0.4s;
+}
+#b16:hover {
+	transform: translateY(-5px);
+}
+#b17{
+	transition: 0.4s;
+}
+#b17:hover {
+	transform: translateY(-5px);
+}
+#b18{
+	transition: 0.4s;
+}
+#b18:hover {
+	transform: translateY(-5px);
+}
+#b19{
+	transition: 0.4s;
+}
+#b19:hover {
+	transform: translateY(-5px);
+}
